@@ -1,6 +1,6 @@
 # AquaSelect
 
-Source code for "AquaSelect: Learning When to Abstain for Reliable Species Classification in Automated Underwater Surveys"
+Source code for "AquaSelect: Selective Prediction via Learned Score Fusion for Reliable Underwater Image Classification"
 
 ## Notebooks (run in order)
 
