@@ -1,6 +1,6 @@
 # AquaSelect
 
-Source code for "AquaSelect: Selective Prediction via Learned Score Fusion for Reliable Underwater Image Classification"
+Source code for "AquaSelect: Learning When to Abstain via Score Fusion for Reliable Underwater Species Classification"
 
 ## Notebooks (run in order)
 
